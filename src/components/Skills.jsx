@@ -9,7 +9,7 @@ import FallbackSpinner from './FallbackSpinner';
 
 const styles = {
   iconStyle: {
-    height: 75,
+    height: 70,
     width: 75,
     margin: 10,
     marginBottom: 0,

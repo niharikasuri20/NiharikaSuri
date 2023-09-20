@@ -1,19 +1,29 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "cardTitle": "B.Tech, Computer Science and Engineering [Jul 2025]",
+            "cardSubtitle":"Chandigarh Engineering College, Landran",
+            "cardDetailedText": "CGPA - 8.4 [Till Semester 4]",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/NS_logo.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardTitle": "Senior Secondary School -PCM [Apr 2021]",
+            "cardSubtitle":"Saint Soldier International School, Chandigarh",
+            "cardDetailedText": "Marks - 88.4%",
+            "icon" : {
+                "src": "images/NS_logo.png"
+            }
+        },
+        {
+            "title": "",
+            "cardTitle": "Matriculation [Apr 2019]",
+            "cardSubtitle":"Oakridge International School, Mohali",
+            "cardDetailedText": "Marks - 94.4%",
+            "icon" : {
+                "src": "images/NS_logo.png"
+            }
         }
     ]
 }

@@ -1,33 +1,26 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
-            ],
-            "dateText": "06/20XX – Present"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Frontend Developer",
+            "subtitle": "One Percent Startups Pvt. Ltd.",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Developed and implemented website code using ReactJS and TailwindCSS",
+                "Implemented a seamless API integration process, resulting in enhanced functionality and improved data retrieval for the application",
+                "Worked on a comprehensive management system for a client,creating individual interfaces tailored to the needs of Universities, Admin, Users, and Companies. This system improved collaboration and efficiency among all stakeholders."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "May – Aug '23"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
+            "title": "Frontend Developer and Content Writer",
+            "subtitle": "Trialshoppy - Project by NIT Patna",
             "workType": "Freelance",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Producing, maintaining and modifying an e-commerce website",
+                "Writing clear and creative digital content for the company's products and websites.",
+                "Managing Social Media"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "Jan – Mar '23"
         }
     ]
 }
