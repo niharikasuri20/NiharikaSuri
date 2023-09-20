@@ -7,7 +7,7 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/niharikasuri20/NiharikaSuri"
                 },
                 {
                     "text": "Live",
@@ -17,48 +17,53 @@
             "tags" : [
                 "React",
                 "Portfolio",
-                "JavaScript"
+                "JavaScript",
+                "CSS",
+                "Frontend"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/tranquil.png",
+            "title": "Tranquil -  Let's Unwind",
+            "bodyText": "- A website designed to help users, unwind and destress.\n - Provides them with a variety of curated activities like skincare, meditation, reading, etc. \n - The UI is designed to be simple, clean, and calming, with a soothing color palette.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/niharikasuri20/Tranquil"
                 },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://webtranquil.netlify.app/"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "ReactJS",
+                "TailwindCSS",
+                "Frontend",
+                "JavaScript",
+                "SelfCare"
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/connectify.png",
+            "title": "Connectify - Chatrooms",
+            "bodyText": "- A website connecting a user with people of mutual interests through chatrooms built using web sockets.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "href": "https://github.com/niharikasuri20/connectify"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://webconnectify.netlify.app/"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "JavaScript",
+                "HTML",
+                "TailwindCSS",
+                "Chatrooms",
+                "Socket.io"
             ]
         }
     ]
